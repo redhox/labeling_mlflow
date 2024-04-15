@@ -1,3 +1,4 @@
+<img src="https://github.com/redhox/labeling_mlflow/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202024-04-15%2016-51-53.png?raw=true"></img><br>
 local python/serveur-mlflow/bucket-s3
 <h1>mlflow en server distant</h1>
 local python/serveur-mlflow/bucket-s3
